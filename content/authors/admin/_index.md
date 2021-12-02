@@ -42,6 +42,6 @@ superuser: true
 title: David Luke Elliott
 ---
 
-David Elliott is a motivated and sociable data scientist, researcher, and educator. I am passionate about the practical applications of data science and machine learning, with an aim to educate and inspire others to use these skills to tackle real-world challenges. I am currently a Data Fellowship Coach at Multiverse where I coach a range of diverse and talented individuals, in order to develop digital skills needed to drive both their personal and professional growth.
+I am a motivated and sociable data scientist, researcher, and educator. I am passionate about the practical applications of data science and machine learning, with an aim to educate and inspire others to use these skills to tackle real-world challenges. I am currently a Data Fellowship Coach at Multiverse where I coach a range of diverse and talented individuals, in order to develop digital skills needed to drive both their personal and professional growth.
 
 I have experience organizing and delivering undergraduate and master’s university courses that covered topics such as data science, machine learning, analyzing and interpreting data, and research design. I also have experience in applied machine learning and neuroscience research which successfully obtained multiple funding grants (Google, MRC, NIHR, and the EPSRC).
