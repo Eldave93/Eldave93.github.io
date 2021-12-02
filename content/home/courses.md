@@ -4,7 +4,7 @@ header:
   image: ""
 title: Courses
 type: page
-weight: 91
+weight: 66
 view: 2
 ---
 

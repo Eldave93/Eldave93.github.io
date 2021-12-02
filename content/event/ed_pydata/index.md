@@ -9,7 +9,7 @@ event: PyData Edinburgh
 event_url: https://www.meetup.com/PyData-Edinburgh/events/279576429
 featured: false
 image:
-  caption: 'Seizure Spectrogram'
+  caption: 'Topoplots of average feature importance, acroding to electrode locations, across features and models on different patient groups.'
   focal_point: Right
 links:
 - icon: twitter

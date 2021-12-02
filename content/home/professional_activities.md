@@ -2,15 +2,14 @@
 header:
   caption: ""
   image: ""
-title: Professional Activities
+title: Other Professional Activities
 type: page
-weight: 92
+weight: 96
 view: 2
 ---
 
 ## Presentations
 
-- [PyData Edinburgh](https://github.com/pydataedinburgh/meetups/blob/master/meetup-2021-08-05-v/David-Elliott-ML-Epilepsy-Diagnosis.pdf)
 - IDCOM Seminar 
 - [PyData Lancaster](https://docs.google.com/presentation/d/1BtDshF2KpQn91ir9siYCXHuP2lGK8LrTlfoajt4IaLY/edit?usp=sharing)
 - North West Epilepsy Interest Group

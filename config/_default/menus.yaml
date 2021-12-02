@@ -13,18 +13,12 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
-  - name: Publications
-    url: '#featured'
-    weight: 50
   - name: Courses
     url: '#courses'
-    weight: 60
+    weight: 40
   - name: Professional Activities
-    url: '#professional_activities'
-    weight: 60
+    url: '#featured'
+    weight: 50
   - name: Contact
     url: '#contact'
-    weight: 70
+    weight: 60
