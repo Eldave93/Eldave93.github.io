@@ -11,13 +11,14 @@ image:
   focal_point: ""
   preview_only: false
 projects:
-- internal-project
+- automatic-detection
+- portable-biosensing
 publication: Lancaster University
 publication_short: ""
 publication_types:
 - "7"
 publishDate: "2017-01-01T00:00:00Z"
-slides: 
+slides: pydataEd
 summary: This thesis examines the application of machine learning pipelines for automatic generalised seizure detection.
 tags:
 - Machine Learning

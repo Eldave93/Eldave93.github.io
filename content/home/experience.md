@@ -29,10 +29,7 @@ experience:
     location: London, UK
     date_start: '2022-01-17'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Teaching...
+    description:
         
   - title: University Teacher in Mathematical Sciences Computing
     company: School of Mathematics, Edinburgh University
@@ -42,7 +39,7 @@ experience:
     date_start: '2020-08-01'
     date_end: '2022-01-14'
     description: |2-
-        Delivered Masters and Undergraduate level Statistics/Computing courses in Course Organizer, Lecturer, or Tutor/Teaching Team roles (See Courses for details).
+        Delivered Masters and Undergraduate level Statistics/Computing courses in Course Organizer, Lecturer, or Tutor/Teaching Team roles (see <a href="#courses">Courses</a> for details).
         
         (Co-)supervised 26 Masters Projects:
         * Anomaly Detection with Bayesian Neural Networks (Partnered with Lloyds banking)
@@ -62,12 +59,12 @@ experience:
     date_start: '2015-10-01'
     date_end: '2020-08-01'
     description: |2-
-        Funded primarily via an ESRC (NWDTC) studentship, my research focused on developing hardware, software, and advanced quantitative methods for portable neurological monitoring of patients with epilepsy. The two main research projects were (see [INSERT] for details):
+        Funded primarily via an ESRC (NWDTC) studentship, my research focused on developing hardware, software, and advanced quantitative methods for portable neurological monitoring of patients with epilepsy. The two main research projects were (see <a href="#projects">Projects</a> for details):
         * Automatic Detection of Epileptiform Discharges in Extra-cranial Electroencephalography
         * Development of a Portable Bio-sensing Platform for Medical Research
         <br><br>
         
-        Gained Associate Fellowship of the Higher Education Academy (HEA) whilst hired as a Teaching Associate for Masters and Undergraduate Psychology courses (See Courses for details).
+        Gained Associate Fellowship of the Higher Education Academy (HEA) whilst hired as a Teaching Associate for Masters and Undergraduate Psychology courses (see <a href="#courses">Courses</a> for details).
         
         Additional engagements include:
         * Research associate applying new methodological techniques to environmental data.

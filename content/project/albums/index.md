@@ -7,8 +7,9 @@ image:
 links:
 summary: I've played drums in several metal/punk bands.
 tags:
-- EEG
-title: Music
+- Music
+- Drums
+title: Albums
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -36,5 +37,3 @@ url_video: ""
 <div class="caption">
     Albums I played drums on.
 </div>
-<br>
-<p>Although I do not currently play in a band, I still listen to a wide variety of music (see <a href = "https://www.sputnikmusic.com/user/eldave93">here</a>).</p>

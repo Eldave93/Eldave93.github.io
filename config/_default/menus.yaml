@@ -19,6 +19,9 @@ main:
   - name: Professional Activities
     url: '#featured'
     weight: 50
+  - name: Hobbies
+    url: '#hobbies'
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 70
