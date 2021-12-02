@@ -8,7 +8,7 @@ weight: 91
 view: 2
 ---
 
-As well as my open-source [seizure detection tutorials](https://github.com/Eldave93/Seizure-Detection-Tutorials), I have delivered Masters and Undergraduate level Statistics/Computing courses in Course Organizer (CO), Lecturer (L), or Tutor/Teaching Team (TT) roles:
+I have delivered Masters and Undergraduate level Statistics/Computing courses in Course Organizer (CO), Lecturer (L), or Tutor/Teaching Team (TT) roles:
 
 ## Edinburgh University
 
