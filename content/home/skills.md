@@ -36,7 +36,7 @@ feature:
   icon: wave-square
   icon_pack: fas
   name: Signal Processing
-- description: Tidyverse, Tidymodels, ggplot2
+- description: Tidyverse, Tidymodels.
   icon: r-project
   icon_pack: fab
   name: R

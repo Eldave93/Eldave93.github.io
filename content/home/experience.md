@@ -39,7 +39,7 @@ experience:
     date_start: '2020-08-01'
     date_end: '2022-01-14'
     description: |2-
-        Delivered Masters and Undergraduate level Statistics/Computing courses in Course Organizer, Lecturer, or Tutor/Teaching Team roles (see <a href="#courses">Courses</a> for details).
+        Delivered Masters and Undergraduate level Statistics/Computing courses to a combined total of over 1000 students in Course Organizer, Lecturer, or Tutor/Teaching Team roles (see <a href="#courses">Courses</a> for details).
         
         (Co-)supervised 26 Masters Projects:
         * Anomaly Detection with Bayesian Neural Networks (Partnered with Lloyds banking)

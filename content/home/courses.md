@@ -13,7 +13,7 @@ I have delivered Masters and Undergraduate level Statistics/Computing courses in
 ## Edinburgh University
 
 _2021/22_
-- MATH08077: Introduction to Data Science (CO/TT)\*\* <a href="http://www.drps.ed.ac.uk/21-22/dpt/cxmath08077.htm"><i class="fas fa-university"></i></a><a href="https://idsed.digital/"><i class="ai ai-open-materials"></i></a>
+- MATH08077: Introduction to Data Science (CO/TT) <a href="http://www.drps.ed.ac.uk/21-22/dpt/cxmath08077.htm"><i class="fas fa-university"></i></a><a href="https://idsed.digital/"><i class="ai ai-open-materials"></i></a>
 - MATH11176: Statistical Programming (TT) <a href="http://www.drps.ed.ac.uk/21-22/dpt/cxmath11176.htm"><i class="fas fa-university"></i></a>
 
 _2020/21_
