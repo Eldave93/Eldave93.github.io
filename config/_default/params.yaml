@@ -23,19 +23,17 @@ twitter: ''
 email:
 phone: 
 address:
-  street: Office 2257, James Clerk Maxwell Building, King’s Buildings Campus
-  city: Edinburgh
+  street:
+  city:
   region:
-  postcode: 'EH9 3FD'
-  country: Scotland
-  country_code: UK
+  postcode:
+  country:
+  country_code:
 coordinates:
-  latitude: '55.9221181822949'
-  longitude: '-3.173726184659381'
+  latitude:
+  longitude:
 directions:
 office_hours:
-  - 'Tuesday 12:00 to 13:00'
-  - 'Wednesday 10:00 to 11:00'
 appointment_url:
 contact_links:
 
@@ -44,7 +42,7 @@ contact_links:
 main_menu:
   enable: true
   align: l
-  show_logo: true
+  show_logo: false
   show_language: false
   show_day_night: true
   show_search: true

@@ -8,9 +8,20 @@ weight: 66
 view: 2
 ---
 
+## Appenticeship
+
+### Multiverse
+
+I am currently delivering a Level 4 appenticeship programme as a coach/teacher.
+
+_2021/22_
+- Data Fellowship <a href="https://www.multiverse.io/en-GB/programmes/data-fellowship-level-4"><i class="fas fa-university"></i></a>
+
+## University
+
 I have delivered Masters and Undergraduate level Statistics/Computing courses in Course Organizer (CO), Lecturer (L), or Tutor/Teaching Team (TT) roles:
 
-## Edinburgh University
+### Edinburgh University
 
 _2021/22_
 - MATH08077: Introduction to Data Science (CO/TT) <a href="http://www.drps.ed.ac.uk/21-22/dpt/cxmath08077.htm"><i class="fas fa-university"></i></a><a href="https://idsed.digital/"><i class="ai ai-open-materials"></i></a>
@@ -27,7 +38,7 @@ _2020/21_
 
 \*\*Course nominated for an "Outstanding Course" award in the SATA’s.
 
-## Lancaster University
+### Lancaster University
 
 _2017/19 & 2019/20_
 

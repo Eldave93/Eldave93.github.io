@@ -29,7 +29,7 @@ experience:
     location: London, UK
     date_start: '2022-01-17'
     date_end: ''
-    description:
+    description: Coaching apprentices to become high-performing analysts and data science professionals.
         
   - title: University Teacher in Mathematical Sciences Computing
     company: School of Mathematics, Edinburgh University
