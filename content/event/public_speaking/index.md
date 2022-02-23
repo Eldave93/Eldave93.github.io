@@ -1,5 +1,5 @@
 ---
-abstract: This workshop aims to provide a toolbox of skills and knowledge that will help you feel more comfortable and confident about speaking in public.
+abstract: This interactive workshop aims to provide a toolbox of skills and knowledge to find and present your message publicly online with confidence.
 address:
 all_day: false
 authors: []
@@ -20,13 +20,16 @@ location: Online event
 projects:
 publishDate: "2017-01-01T00:00:00Z"
 slides:
-summary: This workshop aims to provide a toolbox of skills and knowledge that will help you feel more comfortable and confident about speaking in public.
+summary: This interactive workshop aims to provide a toolbox of skills and knowledge to find and present your message publicly online with confidence.
 tags: []
-title: Public Speaking Skills
+title: Finding and Presenting your Message
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-<!--- [INSERT ABSTRACT] --->
+Presenting a buisness plan to potential investors can be daunting, and knowing your buisiness idea alone is not enough. This workshop focuses on examining how to craft your message so it sticks into the minds of your audience and how to present this effectively online; as knowing skills for coming across clearly and credibly online is more important than ever. In this workshop you will learn:
+- How to use the SUCCES(s) model to craft a "sticky" message.
+- How to position, project, and pace your message during online video conferencing calls.
+- How to deliver your message with confidence.
