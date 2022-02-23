@@ -29,7 +29,7 @@ experience:
     location: London, UK
     date_start: '2022-01-17'
     date_end: ''
-    description: Coaching apprentices to become high-performing analysts and data science professionals.
+    description: Coaching a range of individuals, from those at the beginning of their career to Vice Presidents and Directors in some of the world’s best employers, to become high-performing analysts and data science professionals.
         
   - title: University Teacher in Mathematical Sciences Computing
     company: School of Mathematics, Edinburgh University

@@ -12,10 +12,10 @@ view: 2
 
 ### Multiverse
 
-I am currently delivering a Level 4 appenticeship programme as a coach/teacher.
+I am currently delivering a Level 4 Data Fellowship (<a href="https://www.multiverse.io/en-GB/programmes/data-fellowship-level-4"><i class="fas fa-university"></i></a>) appenticeship programme as a coach/teacher to employees of the following companies:
 
 _2021/22_
-- Data Fellowship <a href="https://www.multiverse.io/en-GB/programmes/data-fellowship-level-4"><i class="fas fa-university"></i></a>
+- <img src="/media/mastercard-logo.png" width="75" alt="MasterCard Logo">
 
 ## University
 
