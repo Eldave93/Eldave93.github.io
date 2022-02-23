@@ -33,3 +33,9 @@ Presenting a buisness plan to potential investors can be daunting, and knowing y
 - How to use the SUCCES(s) model to craft a "sticky" message.
 - How to position, project, and pace your message during online video conferencing calls.
 - How to deliver your message with confidence.
+
+<br>
+<strong>Testimonial</strong>
+
+_"...It was the most interactive session we have had at the Edinburgh Entrepreneurs Society and the energy you brought to the session was incredible..."_
+Harry Dillingham (Vice President of the Edinburgh Entrepreneurs Society)
