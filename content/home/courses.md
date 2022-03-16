@@ -15,7 +15,54 @@ view: 2
 I am currently delivering a Level 4 Data Fellowship (<a href="https://www.multiverse.io/en-GB/programmes/data-fellowship-level-4"><i class="fas fa-university"></i></a>) appenticeship programme as a coach/teacher to employees of the following companies:
 
 _2021/22_
-- <img src="/media/mastercard-logo.png" width="75" alt="MasterCard Logo">
+<style>
+.somethingWrapper{
+    border: 1px;
+    text-align: center;
+}
+.somethingWrapper2{
+    display: inline-flex;
+    margin: 5px;
+    width: 128px;
+    height: 128px;
+}
+</style>
+
+<div class="somethingWrapper">
+  <div class="somethingWrapper2">
+    <img src="/media/CF-logo-Green.png" alt="CityFibre Logo">
+  </div>
+  <div class="somethingWrapper2">
+    <img src="/media/Clifford_Chance_logo_1200.png" alt="Cliffard Chance Logo">
+  </div>
+  <div class="somethingWrapper2">
+    <img src="/media/CNXC.png" alt="Concentrix Logo">
+  </div>
+  <div class="somethingWrapper2">
+    <img src="/media/Crohns.png" alt="Crohn's & Colitis UK Logo">
+  </div>
+  <div class="somethingWrapper2">
+    <img src="/media/Heathrow_Logo_2013.png" alt="Heathrow Airport Logo">
+  </div>
+  <div class="somethingWrapper2">
+    <img src="/media/Marex_Company_Logo.png" alt="Marex Logo">
+  </div>
+  <div class="somethingWrapper2">
+    <img src="/media/mastercard_PNG6.png" alt="MasterCard Logo">
+  </div>
+  <div class="somethingWrapper2">
+    <img src="/media/Met_symbol.webp" alt="Metropolitan Police Logo">
+  </div>
+  <div class="somethingWrapper2">
+    <img src="/media/nottingham-city-council.png" alt="Nottingham City Council Logo">
+  </div>
+  <div class="somethingWrapper2">
+    <img src="/media/Travis-Perkins-Logo.png" alt="Travis Perkins Logo">
+  </div>
+  <div class="somethingWrapper2">
+    <img src="/media/UNM.png" alt="Unum Logo">
+  </div>
+</div>
 
 ## University
 
