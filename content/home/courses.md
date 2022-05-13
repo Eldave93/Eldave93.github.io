@@ -30,6 +30,9 @@ _2021/22_
 
 <div class="somethingWrapper">
   <div class="somethingWrapper2">
+    <img src="/media/brewin_dolphin_0.png" alt="Brewin Dolphin Logo">
+  </div>
+  <div class="somethingWrapper2">
     <img src="/media/CF-logo-Green.png" alt="CityFibre Logo">
   </div>
   <div class="somethingWrapper2">
@@ -42,7 +45,7 @@ _2021/22_
     <img src="/media/Crohns.png" alt="Crohn's & Colitis UK Logo">
   </div>
   <div class="somethingWrapper2">
-    <img src="/media/Heathrow_Logo_2013.png" alt="Heathrow Airport Logo">
+    <img src="/media/Heathrow_Logo.png" alt="Heathrow Airport Logo">
   </div>
   <div class="somethingWrapper2">
     <img src="/media/Marex_Company_Logo.png" alt="Marex Logo">
@@ -52,9 +55,6 @@ _2021/22_
   </div>
   <div class="somethingWrapper2">
     <img src="/media/Met_symbol.webp" alt="Metropolitan Police Logo">
-  </div>
-  <div class="somethingWrapper2">
-    <img src="/media/nottingham-city-council.png" alt="Nottingham City Council Logo">
   </div>
   <div class="somethingWrapper2">
     <img src="/media/Travis-Perkins-Logo.png" alt="Travis Perkins Logo">
