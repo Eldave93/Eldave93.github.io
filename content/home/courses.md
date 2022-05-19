@@ -51,7 +51,9 @@ _2021/22_
     <img src="/media/Marex_Company_Logo.png" alt="Marex Logo">
   </div>
   <div class="somethingWrapper2">
-    <img src="/media/mastercard_PNG6.png" alt="MasterCard Logo">
+    <a href="/courses/feedback/mastercard/">
+      <img src="/media/mastercard_PNG6.png" alt="MasterCard Logo">
+    </a>
   </div>
   <div class="somethingWrapper2">
     <img src="/media/Met_symbol.webp" alt="Metropolitan Police Logo">
