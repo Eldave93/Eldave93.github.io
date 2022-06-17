@@ -20,7 +20,7 @@ feature:
   icon: laptop-code
   icon_pack: fas
   name: Machine Learning
-- description: Seaborn, Matplotlib, ggplot2.
+- description: Seaborn, Matplotlib, ggplot2, Microsoft Power Bi
   icon: chart-line
   icon_pack: fas
   name: Data Visualization
@@ -28,7 +28,7 @@ feature:
   icon: 'python'
   icon_pack: fab
   name: Python
-- description: Multilevel Models, ANOVA, Correlation.
+- description: Multilevel Models, ANOVA, T-Test, Correlation, Power Analysis.
   icon: hypothesis
   icon_pack: ai
   name: Hypothesis Testing
@@ -36,7 +36,7 @@ feature:
   icon: wave-square
   icon_pack: fas
   name: Signal Processing
-- description: Tidyverse, Tidymodels.
+- description: Tidyverse, Tidymodels, Shiny.
   icon: r-project
   icon_pack: fab
   name: R
