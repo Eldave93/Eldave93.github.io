@@ -34,6 +34,11 @@ url_video: ""
         </a>
     </div>
 </div>
-<div class="caption">
-    Albums I played drums on.
-</div>
+
+<iframe width="420" height="315"
+src="https://youtu.be/l1FPdNxV0Lg">
+</iframe>
+
+<iframe width="420" height="315"
+src="https://youtu.be/yYZ6mhzh9aE">
+</iframe>
