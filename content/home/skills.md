@@ -20,7 +20,7 @@ feature:
   icon: laptop-code
   icon_pack: fas
   name: Machine Learning
-- description: Seaborn, Matplotlib, ggplot2, Microsoft Power Bi
+- description: Seaborn, Matplotlib, ggplot2, Microsoft Power Bi.
   icon: chart-line
   icon_pack: fas
   name: Data Visualization
