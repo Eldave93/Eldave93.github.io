@@ -9,7 +9,7 @@ summary: I've played drums in several metal/punk bands.
 tags:
 - Music
 - Drums
-title: Albums
+title: Music
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -36,9 +36,9 @@ url_video: ""
 </div>
 
 <iframe width="420" height="315"
-src="https://youtu.be/l1FPdNxV0Lg">
+src="https://www.youtube.com/embed/l1FPdNxV0Lg">
 </iframe>
 
 <iframe width="420" height="315"
-src="https://youtu.be/yYZ6mhzh9aE">
+src="https://www.youtube.com/embed/yYZ6mhzh9aE">
 </iframe>
