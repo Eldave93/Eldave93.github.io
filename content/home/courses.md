@@ -12,9 +12,8 @@ view: 2
 
 ### Multiverse
 
-I am currently delivering a Level 4 Data Fellowship (<a href="https://www.multiverse.io/en-GB/programmes/data-fellowship-level-4"><i class="fas fa-university"></i></a>) appenticeship programme as a coach/teacher to employees of the following companies:
+I designed and delivered workshops for a Level 4 Data Fellowship (<a href="https://www.multiverse.io/en-GB/programmes/data-fellowship-level-4"><i class="fas fa-university"></i></a>) appenticeship programme to employees of the following companies (and more):
 
-_2021/22_
 <style>
 .somethingWrapper{
     border: 1px;

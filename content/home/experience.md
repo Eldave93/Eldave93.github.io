@@ -29,7 +29,23 @@ experience:
     location: London, UK
     date_start: '2022-01-17'
     date_end: ''
-    description: Coaching a range of individuals, from those at the beginning of their career to Vice Presidents and Directors in some of the world’s best employers, to become high-performing analysts and data science professionals.
+    description: |2-
+      Designed and delivered workshops as part of a Level 4 Data Fellowship apprenticeship. I was a personal data coach to 42 highly impactful apprentices, who worked on projects that lead to outcomes such as..
+      
+      * Recovering over £5 million from a new billing process.
+      * Saving $100k on a contract renewal using data analysis in negotiation.
+      * Automated reporting to save 4 hours a week on manual processes.
+      <br><br>
+      
+      Average Performance Metrics:
+      * Coach Satisfaction: 5.5/6
+      * Workshop Satisfaction: 4.8/6
+      * Apprentice NPS: 52
+      * Manager NPS: 70
+      <br><br>
+      
+      Administrative Roles:
+      * Member of the End-point-Assessment, Curriculum, and Social teams.
         
   - title: University Teacher in Mathematical Sciences Computing
     company: School of Mathematics, Edinburgh University

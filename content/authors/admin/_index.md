@@ -39,7 +39,7 @@ social:
   icon_pack: fab
   link: https://linkedin.com/in/delliott93
 superuser: true
-title: David Luke Elliott
+title: Dr. David Luke Elliott
 ---
 
 I am a motivated and sociable data scientist, educator, and coach. I am passionate about the practical applications of data science and machine learning, with an aim to educate and inspire others to use these skills to tackle real-world challenges. I have been a coach to a range of individuals (career starters to Vice Presidents and Directors), from some of the world’s best companies, to support them becoming high-performing analysts and data science professionals.

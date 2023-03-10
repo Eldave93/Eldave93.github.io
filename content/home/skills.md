@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Feature Engineering, Dimension Reduction, Classification, Regression, Hyperparameter Optimization.
+- description: Feature Engineering, Dimension Reduction, Hyperparameter Optimization, Classification, Regression, Forecasting.
   icon: laptop-code
   icon_pack: fas
   name: Machine Learning
@@ -32,7 +32,7 @@ feature:
   icon: hypothesis
   icon_pack: ai
   name: Hypothesis Testing
-- description: Wavelets, Fourier Transform, FIR/IIR Filters.
+- description: Time Series Analysis, Wavelets, Fourier Transform, FIR/IIR Filters, Changepoint.
   icon: wave-square
   icon_pack: fas
   name: Signal Processing
@@ -40,6 +40,10 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
+- description: 
+  name: 
+- description: Excel, SQL, High-Performance Computing Cluster, Google Cloud.
+  name: Other
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
