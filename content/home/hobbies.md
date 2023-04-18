@@ -12,7 +12,7 @@ view: 2
 
 Although I do not currently play in a band (<a href = "./project/music/">previous bands</a>), I still listen and <a href = "https://www.sputnikmusic.com/user/eldave93">rate</a> a wide variety of music.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4eCdKCwNXxJIG7B82xQh3F?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2Ef5h57IcgNVVTWdYLlUMV?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Reading
 
