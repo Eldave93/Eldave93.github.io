@@ -22,15 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Data Scientist
+    company: RBC Brewin Dolphin
+    company_url: 'https://www.brewin.co.uk/'
+    company_logo: brewin
+    location: London, UK
+    date_start: '2022-05-09'
+    date_end: ''
+    description: |2-
+      Responsible for developing new capabilities for the business using data science and machine learning techniques.
   - title: Data Fellowship Coach
     company: Multiverse
     company_url: 'https://www.multiverse.io/'
     company_logo: multiverse
     location: London, UK
     date_start: '2022-01-17'
-    date_end: ''
+    date_end: '2023-05-05'
     description: |2-
-      Designed and delivered workshops as part of a Level 4 Data Fellowship apprenticeship. I was a personal data coach to 42 highly impactful apprentices, who worked on projects that lead to outcomes such as..
+      Designed and delivered workshops as part of a Level 4 Data Fellowship apprenticeship. I was a personal data coach to 42 highly impactful apprentices, who worked on projects that lead to outcomes such as...
       
       * Recovering over £5 million from a new billing process.
       * Saving $100k on a contract renewal using data analysis in negotiation.

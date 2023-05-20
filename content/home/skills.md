@@ -24,7 +24,7 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Data Visualization
-- description: TensorFlow, Scikit-learn, Pandas, NumPy.
+- description: TensorFlow, Scikit-learn, Pandas, NumPy, PySpark.
   icon: 'python'
   icon_pack: fab
   name: Python
@@ -42,7 +42,7 @@ feature:
   name: R
 - description: 
   name: 
-- description: Excel, SQL, High-Performance Computing Cluster, Google Cloud.
+- description: Excel, SQL, High-Performance Computing Cluster, Google Cloud, Databricks.
   name: Other
 
 # Uncomment to use emoji icons.
